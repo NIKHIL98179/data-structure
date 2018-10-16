@@ -68,7 +68,7 @@ int main()
 {
 int a[n];
 int r=-1,f=-1;
-cout<<"Enter 'a' for insertion, 'b' for deletion, 'c' to display & 'x' to exit the menu"<<endl;
+cout<<"Enter 'a' for insertion, 'b' for deletion, 'c' to display & 'x' to exit the menu"<<endl; //This shows the menu
 char ch;
 cin>>ch;
 
